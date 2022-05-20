@@ -11,6 +11,10 @@
     "autocomplete",
     "angularjs"
   ],
-  "license": "MIT",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/chdutay/allmighty-autocomplete.git"
+	},
+	"license": "MIT",
   "main": ["./script/autocomplete.js", "./style/autocomplete.css"]
 }
